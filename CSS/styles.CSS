@@ -1,1 +1,42 @@
 /* ini CSS */
+
+.main-title {
+    text-align: center;
+}
+
+main {
+    display: flex;
+}
+
+form {
+    padding: 12px;
+    background-color: lavender;
+}
+    
+aside {
+    padding: 48px;
+}
+
+.button {
+    height: 32px;
+    border: none;
+    border-radius: 4px;
+}
+
+.form-btn-container {
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.bg.lightblue {
+    background-color: lightblue;
+}
+
+.bg-reset {
+    background-color: red;
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
